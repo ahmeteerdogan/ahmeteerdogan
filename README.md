@@ -1,4 +1,4 @@
-### `npx fka`
+### `npx ahmeteerdogan`
 
 
 Hello, this is **Ahmet Erdoğan**
