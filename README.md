@@ -5,7 +5,6 @@ I'm passionate about **problem solving and product development** to make people'
 I'm constantly improving my skills in many subjects such as high standard code generation, Design patterns and Web development. 
 I continue to stay up to date and improve myself **quickly** and **solidly**.
 
-- 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/ahmeteerdogan)
 - 🐦  [What do I think? (**Twitter**)](https://twitter.com/eytiemey)
 - 🏹  [Curriculum vitae (**LinkedIn**)](https://linkedin.com/in/ahmeterdogann)
 
