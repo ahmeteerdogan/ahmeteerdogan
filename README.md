@@ -1,6 +1,3 @@
-### `npx ahmeteerdogan`
-
-
 Hello, this is **Ahmet Erdoğan**
 
 I'm a passionate **software developer** living in **Ankara, Turkey**.
